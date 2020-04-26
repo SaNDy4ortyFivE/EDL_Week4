@@ -1,2 +1,4 @@
 # datasciencecoursera
-This repo is a part of submission as a coursework
+This repo is a part of submission to a coursework
+Coursename: Datascientist's toolbox
+
